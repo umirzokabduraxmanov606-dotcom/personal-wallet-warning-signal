@@ -49,44 +49,15 @@ Current solutions only detect risks **after** a transaction is confirmed. This s
 - Collaborate with leading security companies (e.g., CertiK, Chainalysis, Binance Security).  
 - Develop APIs for integration with exchanges and wallet providers.  
 - Expand blacklist databases with community reporting.
+📜 Copyright & Limited License Notice
 
----
+© 2025 Umirzok Mamatmurodovich Abduraxmanov. All rights reserved.
 
-## 📌 Umumiy ma’lumot (O‘zbekcha)
+This project — “Personal Wallet Warning Signal” — including its concept, design, technical documentation, and idea, is the original work and intellectual property of the author.
 
-**Personal Wallet Warning Signal** — bu yangi xavfsizlik tizimi bo‘lib, foydalanuvchi kriptovalyutani **shaxsiy (EOA) yoki birjaga tegishli bo‘lmagan hamyon manziliga yuborishidan oldin avtomatik ravishda ogohlantiradi.**  
-Tizim foydalanuvchilarni, ayniqsa yangi boshlovchilarni, eng keng tarqalgan firibgarliklardan himoya qilishga qaratilgan.
+You are allowed to view, reference, and discuss the contents of this project for educational or research purposes.
+However, any reproduction, modification, distribution, or commercial use of this project — in whole or in part — without the author’s explicit written permission is strictly prohibited and may result in legal action.
 
----
+📩 Contact: umirzokabduraxmanov606@gmail.com
 
-## ❗ Muammo
 
-Har yili minglab foydalanuvchilar scammerlar boshqaradigan shaxsiy hamyonlarga token yuborish orqali pullarini yo‘qotadilar.  
-Hozirgi vositalar ogohlantirishni faqat **tranzaksiya amalga oshgandan keyin** beradi. Ushbu tizim esa xavfni **avvaldan aniqlaydi**.
-
----
-
-## 🧠 Yechim – Bosqichma-bosqich ishlash tartibi
-
-1. **Manzilni tekshirish** – Hamyon manzili formati, uzunligi va blockchain turini tekshiradi (TRC20 / ERC20).  
-2. **Birja manzillar bazasi bilan solishtirish** – Manzilni tasdiqlangan birja manzillari bazasi bilan solishtiradi.  
-3. **EOA yoki Custodial aniqlash** – Manzil shaxsiy hamyonmi yoki custodial ekanini aniqlaydi.  
-4. **Xavf tahlili va qora ro‘yxat bilan tekshirish** – Scam va phishing ma’lumotlarini tekshiradi va xavf darajasini baholaydi.  
-5. **Yangi foydalanuvchi filtri** – Yangi akkauntlar uchun yanada qat’iyroq qoidalar qo‘llanadi (<5 tranzaksiya bo‘lsa).  
-6. **Ogohlantirish va qaror** –  
-   - ⚠️ “Bu manzil shaxsiy yoki tasdiqlanmagan. Scam xavfi mavjud.”  
-   - ❌ Bekor qilish → Tranzaksiya to‘xtatiladi.  
-   - ✅ Davom etish → 2FA tasdiqlash va yuborishdan oldin kechikish talab qilinadi.  
-7. **Qayd va tahlil** – Har bir amal (manzil, xavf balli, vaqt va qaror) qayd etiladi.
-
----
-
-## 🛡️ Afzalliklari
-
-- Yangi foydalanuvchilarni firibgarlik va xatolardan himoya qiladi.  
-- Firibgarlik tranzaksiyalarini kamaytiradi.  
-- Kripto sanoati uchun yangi xavfsizlik standarti bo‘lishi mumkin.
-
----
-
-📌 *Ushbu loyiha muallifning real hayotdagi tajribasiga asoslangan bo‘lib, butun dunyodagi foydalanuvchilar xavfsizligini oshirishga qaratilgan. Mualliflik huquqi saqlanadi.*
